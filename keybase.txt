@@ -1,0 +1,77 @@
+==================================================================
+https://keybase.io/girish
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://www.girishsastry.com
+  * I am girish (https://keybase.io/girish) on keybase.
+  * I have a public key with fingerprint 7120 0608 11E3 B77A 88E2  D51E 668C 4416 E69A 39A2
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "client": {
+            "name": "keybase.io node.js client",
+            "version": "0.3.2"
+        },
+        "key": {
+            "fingerprint": "7120060811e3b77a88e2d51e668c4416e69a39a2",
+            "host": "keybase.io",
+            "key_id": "668C4416E69A39A2",
+            "uid": "0554e8889ab64861dbba2c0810ea0200",
+            "username": "girish"
+        },
+        "merkle_root": {
+            "ctime": 1400119890,
+            "hash": "4d5f8ed19ea1ad40bfd082eeda8d886a05feeb65c1497a67eefe03fad61a9d70ad7069d30e5fa4d79fcd980dfd8a1cdecb16e45cebd3d3880d3b112f88d5a5b8",
+            "seqno": 8338
+        },
+        "service": {
+            "hostname": "www.girishsastry.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1400120000,
+    "expire_in": 157680000,
+    "prev": "2ad80572c73b775ccc1558016f211820002a11429264756903d8bfbda87c2da1",
+    "seqno": 5,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG/MacGPG2 v2.0.19 (Darwin)
+Comment: GPGTools - http://gpgtools.org
+
+owFVkl1sFUUYhveoWHoSwlG4UEHEBQWUnszs7szOnqTGEyXxgguViELQ4/x8e85C
+e/Z0d2mp/bnQNBHEVAgqBAyJif9pUUhvqFCJFxhRY2rEKGIFjA0EBQWMxhtnSo14
+scnszDPv973vNy/Nut7K506M3fazdfriptyxs8Jaldkf9dgiVt12qceWbRHUM7Oq
+83awS/YG6BY8hWIUL6zHCorr04XTzHK7E5I0iuuaQkW36Nh9yw1uLodRvQpJI4mM
+lu1jByGKGMbgCt/njIGjCAZKmfQ8TIEG3A24oyVrcZr9r6o9pVmJlN7V/AOGX0GD
+shuUDb9x6gAR4gFjLOCCeoxiJQR3pC6IgCNd24ApJNOWqlESpTXTbTskG9qgksTx
+lGWZRQbAHkIYByxAuh+uyZLtKRIyUDgAjrnykAgVYg6A4kwxRjkiIYCgRGIv8Dn1
+AUJAbsgVxTxQPuL6o4FyEZCQe8oPQqkChlSoGMdSgRQ6BY9IEMpVLtMnrsDYCRlT
+hBPBtIEUOuqxXWKuy/rMX9IZSTBdm8imnXV1dRWvukt5miXdRRm366uNJM5iGbdp
+opZljZKxnnU3zI0PukBUpsUqIqorPbhrJ4s1em0sOkykY4FNjSiBSmQI4lN2dbeR
+QKfWdLhiiPiO9M20iZQSE8IQpqGDMTMKDsfYcwKHej6hAXIVE6HQWfrSURz/Z5bo
+PnlVS6ZRtc6zjQnYfZtz82+wcnnrxhnXmadr5ZsL/77nec/PtI58vsbatn3l5o/3
+7zpx/NU9+15YNj4U79nb+9ypGefQyGnUah369dL9S+fuf28nntna/ORb9/410Rj9
+clb/6h/Lo6/dcar368Mr3/hk+7Nvh+WLswsvr333mXl/lx5fPzA8drR36M3ckg/3
+DXScGZ9sKtzVcvTubxftPv/0mcf81+1KPluxuvrnyYlHZ99zKaq9P1xuORAMDKUj
+S05eCX+as+ury8cWT+64r3k+XtdkD97y4KpbRwYvDH2Hbjq8penA1rHF/ZMLyPia
+Wun2uc1HxnnP6O8HP1OXdzRNbHto51O7b/7jt/D4oocP/nAoKuz99OwT/V/kv7nz
+3C+DHY+0bRkupFderJxfduGdBd+/0rK19R8=
+=69Q/
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/girish
+
+==================================================================
